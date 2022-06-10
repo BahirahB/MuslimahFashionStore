@@ -1,0 +1,78 @@
+body {
+  background-color: #EEE2DC;
+  font-family: ;
+}
+"Times New Roman"
+'Poppins', sans-serif
+a {
+margin-left: 1em;
+  color: #AC3B61;
+  font-size: 18px;
+  text-align: right;
+  
+}
+h1 {
+  color:#AC3B61;
+  font-size: 28px; 
+}
+ h2, h3, h4, h5 {
+  color: #AC3B61;
+  margin-left: 40px;
+  font-size: 25px;
+} 
+p {
+  color: black;
+  margin-left: 40px; 
+  font-family: 
+}
+div {
+  margin-left: 40px;
+}   
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 240px;
+  margin: 2rem;
+  padding: 1.5rem 1.5rem;
+  text-align: center;
+  display: inline-block;
+  background-color: white;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 10px;
+  color: white;
+  background-color: pink;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+a:link {
+  color: #AC3B61;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #AC3B61;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+ #C19A6B
